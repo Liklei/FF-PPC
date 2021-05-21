@@ -1,0 +1,31 @@
+# Project
+.idea
+.DS_Store
+.git
+
+# VCS
+.svn
+tags
+
+# NodeJS
+node_modules
+npm-debug.log
+.npmrc
+
+# PHP
+vendor
+
+# Module Bundler
+.cache
+npm-cache
+
+# Application
+*.swp
+*.pyc
+.history
+.ropeproject
+.tern-project
+dist
+app/config/assets.json
+swagger-ui/output.json
+.vscode/settings.json
