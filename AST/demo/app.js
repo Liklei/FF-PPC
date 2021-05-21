@@ -5,7 +5,7 @@ const {variableDeclaration, variableDeclarator, functionExpression} = recast.typ
 // 对方法语句进行查看（语法构成）
 const code =
   `
-  function add(a, b) {
+  function   add(a, b)   {
     return a + b
   }
   `
