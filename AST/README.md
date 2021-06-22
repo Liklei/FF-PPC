@@ -16,4 +16,5 @@
 - [AST 使用recast工具了解](https://segmentfault.com/a/1190000016231512)
 - [Parser API](https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/SpiderMonkey/Parser_API)
 - [使用 Acorn 来解析 JavaScript](https://juejin.cn/post/6844903450287800327)
+- [SpiderMonkey](https://firefox-source-docs.mozilla.org/js/index.html)
 
